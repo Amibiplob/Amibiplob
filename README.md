@@ -1,32 +1,47 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/103816819?v=4" width="120" style="border-radius: 50%;" alt="Md Biplob Hosain" />
+<img src="https://avatars.githubusercontent.com/u/103816819?v=4" width="100" style="border-radius:50%;" />
 
-# Hi, I'm Md Biplob Hosain 👋
+<h1>Md Biplob Hosain</h1>
 
-**Full-Stack JavaScript Developer** · Bangladesh
+<p><strong>Frontend · React · Next.js · Full-Stack Developer</strong></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amibiplob.vercel.app-0F6E56?style=flat-square&logo=vercel&logoColor=white)](https://amibiplob.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Amibiplob-181717?style=flat-square&logo=github)](https://github.com/Amibiplob)
-![Profile Views](https://komarev.com/ghpvc/?username=Amibiplob&style=flat-square&color=0F6E56)
+<p>
+  <img src="https://img.shields.io/badge/Status-Available%20Immediately-0F6E56?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-1D9E75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-React%20%2F%20Next.js-000000?style=flat-square&logo=nextdotjs" />
+</p>
+
+<p>
+  <a href="mailto:biplobwebdesigner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-biplobwebdesigner%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://amibiplob.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-amibiplob.vercel.app-0F6E56?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Amibiplob">
+    <img src="https://img.shields.io/badge/GitHub-Amibiplob-181717?style=flat-square&logo=github" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About me
+## 👋 About Me
 
-I'm a self-taught full-stack developer from Bangladesh who started building with HTML & CSS in 2022 and quickly progressed to React, Node.js, and Next.js. I love shipping real products — every project I build gets deployed live on Vercel.
+I'm a **self-taught full-stack developer** from Bangladesh with **4 years of hands-on experience** building and deploying real-world web applications. I started from scratch in 2022, progressed through the full JavaScript ecosystem, and now specialize in **React**, **Next.js**, and **Node.js** with every project shipped live on Vercel.
 
-- 🔭 Currently building with **Next.js 14 + TypeScript**
-- 🌱 Learning **server components**, **App Router**, and **SaaS patterns**
-- 💼 Open to **freelance work** and **collaborations**
-- 🚀 42 public repos, all with live Vercel deployments
-- 📫 Reach me via [GitHub](https://github.com/Amibiplob)
+- 🎯 Seeking roles as **Frontend**, **React**, **Next.js**, or **Full-Stack Developer**
+- ⚡ **Available immediately** — open to full-time, part-time, and freelance
+- 🏗️ Built **42 public projects** — all with live production deployments
+- 📈 Currently mastering **Next.js 14 App Router**, **TypeScript**, and **SaaS architecture**
+- 🎓 Studying at **City University, Bangladesh**
+- 📬 Reach me at **biplobwebdesigner@gmail.com**
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -35,6 +50,8 @@ I'm a self-taught full-stack developer from Bangladesh who started building with
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Database**
 
@@ -42,55 +59,104 @@ I'm a self-taught full-stack developer from Bangladesh who started building with
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
 **Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## GitHub stats
+## 🚀 Featured Projects
+
+> All projects are live and deployed on Vercel.
+
+| # | Project | Description | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 1 | **Find App** | Search & discovery web app with dynamic filtering | React, JavaScript | [Repo](https://github.com/Amibiplob/Find-App) · [Live](https://find-app-six.vercel.app/) |
+| 2 | **Smart Queue SaaS** | Queue management SaaS with real-time features | Next.js, TypeScript | [Repo](https://github.com/Amibiplob/Smart-Queue-SaaS) · [Live](https://smart-queue-saas.vercel.app) |
+| 3 | **Smart Service** | Full-stack service booking platform | React, JavaScript | [Repo](https://github.com/Amibiplob/Smart-Service) · [Live](https://smart-service-five.vercel.app) |
+| 4 | **City University Library** | Library management system with backend API | React, Node.js, MongoDB | [Repo](https://github.com/Amibiplob/City-University-Library) · [Live](https://city-university-library.vercel.app) |
+| 5 | **Code Campus** | Coding education platform built with Next.js | Next.js, TypeScript | [Repo](https://github.com/Amibiplob/Code-Campus) |
+| 6 | **Item Cart** | E-commerce cart UI with product management | HTML, CSS, JavaScript | [Repo](https://github.com/Amibiplob/Item-Cart) · [Live](https://item-cart-two.vercel.app) |
+| 7 | **Spend X** | Personal expense tracker with data visualization | React, JavaScript | [Repo](https://github.com/Amibiplob/Spend-X) · [Live](https://spend-x.vercel.app/) |
+| 8 | **Pro Adda** | Full-stack social platform with auth | React, Node.js, MongoDB | [Repo](https://github.com/Amibiplob/Pro-Adda-Client) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Amibiplob&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0F6E56&icon_color=0F6E56" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amibiplob&layout=compact&hide_border=true&title_color=0F6E56&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amibiplob&show_icons=true&hide_border=true&count_private=true&title_color=0F6E56&icon_color=1D9E75&text_color=333333&bg_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amibiplob&layout=compact&hide_border=true&title_color=0F6E56&text_color=333333&bg_color=ffffff&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amibiplob&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56" />
 
 </div>
 
 ---
 
-## My journey
+## 📈 Developer Journey
 
-```
-Jul 2022  →  Started with HTML, CSS, vanilla JavaScript
-Sep 2022  →  Learned React — built auth flows, API apps, routers
-Dec 2022  →  First full-stack apps (client + server, MongoDB, Firebase)
-Jan 2023  →  Adopted TypeScript
-2023      →  Built MERN stack projects, deployed everything on Vercel
-2025      →  SaaS projects — Smart-Queue-SaaS, City University Library
-Mar 2026  →  Migrating to Next.js 14 App Router
+```text
+Jul 2022   HTML, CSS, vanilla JavaScript — built first 10 projects
+Sep 2022   React — components, hooks, routing, Firebase auth
+Dec 2022   Full-stack MERN — client + server pairs, REST APIs, MongoDB
+Jan 2023   TypeScript — type safety across frontend and backend
+Mid 2023   Advanced React patterns — context, custom hooks, optimization
+2025       SaaS architecture — Smart-Queue-SaaS, City University Library
+Mar 2026   Next.js 14 App Router, server components, production-grade apps
 ```
 
 ---
 
-## Featured projects
+## 🎓 Education
 
-| Project | Stack | Live |
-|---------|-------|------|
-| [Find-App](https://github.com/Amibiplob/Find-App) | JavaScript, React | [find-app-six.vercel.app](https://find-app-six.vercel.app/) |
-| [Smart-Service](https://github.com/Amibiplob/Smart-Service) | JavaScript, React | [smart-service-five.vercel.app](https://smart-service-five.vercel.app) |
-| [Smart-Queue-SaaS](https://github.com/Amibiplob/Smart-Queue-SaaS) | TypeScript, Next.js | [smart-queue-saas.vercel.app](https://smart-queue-saas.vercel.app) |
-| [City University Library](https://github.com/Amibiplob/City-University-Library) | JavaScript, React | [city-university-library.vercel.app](https://city-university-library.vercel.app) |
-| [Item-Cart](https://github.com/Amibiplob/Item-Cart) | HTML, CSS, JS | [item-cart-two.vercel.app](https://item-cart-two.vercel.app) |
+**B.Sc. in Computer Science / Engineering**
+City University, Bangladesh · 2022 – Present
+
+**Self-taught Web Development**
+Consistent self-learning through official docs, YouTube, and building real projects · 2022 – Present
+
+---
+
+## 💼 What I Bring to a Team
+
+- ✅ **Ships real products** — every project is live, not just a repo
+- ✅ **Full-stack capable** — frontend UI to backend API to database
+- ✅ **Fast learner** — went from zero to Next.js + TypeScript in under 2 years
+- ✅ **Clean code habits** — consistent naming, separated concerns, reusable components
+- ✅ **Available immediately** — ready to start right away
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **frontend**, **React**, **Next.js**, and **full-stack** roles.
+
+If you're a recruiter or team looking for a dedicated developer — I'd love to hear from you!
+
+| | |
+|---|---|
+| 📧 Email | [biplobwebdesigner@gmail.com](mailto:biplobwebdesigner@gmail.com) |
+| 🌐 Portfolio | [amibiplob.vercel.app](https://amibiplob.vercel.app/) |
+| 💻 GitHub | [github.com/Amibiplob](https://github.com/Amibiplob) |
 
 ---
 
 <div align="center">
 
-*Open for freelance work and interesting collaborations — let's build something together.*
+<img src="https://komarev.com/ghpvc/?username=Amibiplob&style=flat-square&color=0F6E56&label=Profile+Views" />
+
+*Open to full-time, part-time, and freelance opportunities — let's build something great together.*
 
 </div>
