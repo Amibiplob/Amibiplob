@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  <a href="mailto:biplobwebdesigner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-biplobwebdesigner%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:biplobhosaindev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-biplobhosaindev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://amibiplob.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-amibiplob.vercel.app-0F6E56?style=flat-square&logo=vercel&logoColor=white" />
@@ -37,7 +37,7 @@ I'm a **self-taught full-stack developer** from Bangladesh with **4 years of han
 - 🏗️ Built **42 public projects** — all with live production deployments
 - 📈 Currently mastering **Next.js 14 App Router**, **TypeScript**, and **SaaS architecture**
 - 🎓 Studying at **City University, Bangladesh**
-- 📬 Reach me at **biplobwebdesigner@gmail.com**
+- 📬 Reach me at **biplobhosaindev@gmail.com**
 
 ---
 
@@ -147,7 +147,7 @@ If you're a recruiter or team looking for a dedicated developer — I'd love to 
 
 | | |
 |---|---|
-| 📧 Email | [biplobwebdesigner@gmail.com](mailto:biplobwebdesigner@gmail.com) |
+| 📧 Email | [biplobhosaindev@gmail.com](mailto:biplobhosaindev@gmail.com) |
 | 🌐 Portfolio | [amibiplob.vercel.app](https://amibiplob.vercel.app/) |
 | 💻 GitHub | [github.com/Amibiplob](https://github.com/Amibiplob) |
 
